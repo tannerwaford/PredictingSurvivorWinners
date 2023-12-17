@@ -1,0 +1,44 @@
+num_season,season,merged_tribe,num_merge,day_merge,num_jury,num_ftc,num_swaps,num_contestants,redemption_island,edge_of_extinction,num_days,african_american,asian_american,latin_american,poc,lgbt,jewish,muslim,num_quits,num_evacs,winner
+1,Survivor: Borneo,Rattana,10,20,7,2,0,16,0,0,39,2,0,0,2,2,0,0,0,0,Richard Hatch
+2,Survivor: The Australian Outback,Barramundi,10,20,7,2,0,16,0,0,42,2,0,1,3,2,0,0,0,1,Tina Wesson
+3,Survivor: Africa,Moto Maji,10,20,7,2,1,16,0,0,39,2,0,1,3,1,1,0,0,0,Ethan Zohn
+4,Survivor: Marquesas,Soliantu,10,20,7,2,1,16,0,0,39,2,0,0,2,1,0,0,0,0,Vecepia Towery
+5,Survivor: Thailand,Chuay Jai,8,25,7,2,0,16,0,0,39,2,1,0,3,0,0,0,0,0,Brian Heidik
+6,Survivor: The Amazon,Jacaré,10,19,7,2,1,16,0,0,39,1,1,1,3,0,0,0,0,0,Jenna Morasca
+7,Survivor: Pearl Islands,Balboa,10,21,7,2,0,16,0,0,39,2,0,1,3,0,1,0,1,0,Sandra Diaz-Twine
+8,Survivor: All-Stars,Chaboga Mogo,9,26,7,2,2,18,0,0,39,1,1,0,2,1,1,0,2,0,Amber Mariano
+9,Survivor: Vanuatu,Alinta,10,20,7,2,1,18,0,0,39,1,0,0,1,2,1,0,0,0,Chris Daugherty
+10,Survivor: Palau,Koror,9,22,7,2,0,20,0,0,39,2,0,1,3,2,1,1,1,0,Tom Westman
+11,Survivor: Guatemala,Xhakúm,10,18,7,2,1,18,0,0,39,0,0,2,2,2,0,0,0,0,Danni Boatwright
+12,Survivor: Panama,Gitanos,10,16,7,2,1,16,0,0,39,2,1,0,3,0,0,0,0,1,Aras Baskauskas
+13,Survivor: Cook Islands,Aitutonga,9,25,9,3,2,20,0,0,39,5,5,6,15,3,1,0,0,0,Yul Kwon
+14,Survivor: Fiji,Bula Bula,10,22,9,3,1,19,0,0,39,5,5,5,15,0,0,0,1,0,Earl Cole
+15,Survivor: China,Hae Da Fung,10,20,7,3,1,16,0,0,39,2,2,0,4,1,0,0,0,0,Todd Herzog
+16,Survivor: Micronesia,Dabu,10,22,8,2,1,20,0,0,39,2,2,1,5,4,2,0,1,2,Parvati Shallow
+17,Survivor: Gabon,Nobag,9,27,7,3,2,18,0,0,39,2,1,3,6,1,2,0,0,0,Bob Crowley
+18,Survivor: Tocantins,Forza,10,19,7,2,0,16,0,0,39,3,0,1,4,1,1,0,0,1,J.T. Thomas
+19,Survivor: Samoa,Aiga,12,19,9,3,0,20,0,0,39,3,1,3,7,1,0,0,0,2,Natalie White
+20,Survivor: Heroes vs. Villains,Yin Yang,10,25,9,3,0,20,0,0,39,2,0,1,3,0,0,0,0,0,Sandra Diaz-Twine
+21,Survivor: Nicaragua,Libertad,12,19,9,3,1,20,0,0,39,3,1,2,5,0,0,0,2,0,Fabio Birza
+22,Survivor: Redemption Island,Murlonio,12,19,9,3,0,18,1,0,39,2,0,1,3,0,0,0,0,0,Rob Mariano
+23,Survivor: South Pacific,Te Tuna,12,19,9,3,0,18,1,0,39,3,2,4,7,2,1,0,0,0,Sophie Clarke
+24,Survivor: One World,Tikiano,12,17,9,3,1,18,0,0,39,2,2,1,5,2,0,0,0,2,Kim Spradlin-Wolfe
+25,Survivor: Philippines,Dangrayne,11,17,8,3,1,18,0,0,39,4,0,1,5,1,1,0,1,0,Denise Stapley
+26,Survivor: Caramoan,Enil Edam,12,20,8,3,1,20,0,0,39,3,1,1,4,1,2,0,0,2,John Cochran
+27,Survivor: Blood vs. Water,Kasama,11,19,8,3,2,20,1,0,39,2,0,0,2,2,0,0,1,0,Tyson Apostol
+28,Survivor: Cagayan,Solarrion,11,17,9,2,1,18,0,0,39,4,1,1,6,1,2,0,1,0,Tony Vlachos
+29,Survivor: San Juan del Sur,Huyopa,12,16,8,3,1,18,0,0,39,2,2,0,4,2,0,0,1,0,Natalie Anderson
+30,Survivor: Worlds Apart,Merica,12,17,8,3,1,18,0,0,39,1,3,1,5,1,1,0,0,0,Mike Holloway
+31,Survivor: Cambodia,Orkun,13,17,10,3,2,20,0,0,39,2,3,2,7,1,1,0,0,1,Jeremy Collins
+32,Survivor: Kaôh Rōng,Dara,11,17,8,3,1,18,0,0,39,3,1,0,4,1,0,0,0,3,Michele Fitzgerald
+33,Survivor: Millennials vs. Gen X,Vinaka,13,21,10,3,1,20,0,0,39,2,3,2,7,2,3,0,0,0,Adam Klein
+34,Survivor: Game Changers,Maku Maku,13,19,10,3,2,20,0,0,39,2,1,2,5,4,1,0,0,0,Sarah Lacina
+35,Survivor: Heroes vs. Healers vs. Hustlers,Solewa,12,17,8,3,1,18,0,0,39,3,1,2,6,2,1,0,0,0,Ben Driebergen
+36,Survivor: Ghost Island,Lavita,13,20,10,3,2,20,0,0,39,3,1,1,5,1,1,0,0,0,Wendell Holland
+37,Survivor: David vs. Goliath,Kalokalo,13,18,10,3,1,20,0,0,39,4,3,2,9,3,0,1,1,1,Nick Wilson
+38,Survivor: Edge of Extinction,Vata,14,17,13,3,1,18,0,1,39,2,0,3,5,2,1,0,0,0,Chris Underwood
+39,Survivor: Island of the Idols,Lumuwaku,13,20,10,3,1,20,0,0,39,5,5,1,9,3,2,0,0,0,Tommy Sheehan
+40,Survivor: Winners at War,Koru,13,19,16,3,1,20,0,1,39,2,2,1,5,0,2,0,0,0,Tony Vlachos
+41,Survivor 41,Viakana,12,12,8,3,0,18,0,0,26,6,3,1,10,3,4,1,0,0,Erika Casupanan
+42,Survivor 42,Kula Kula,12,12,8,3,0,18,0,0,26,5,4,2,11,5,2,1,0,1,Maryanne Oketch
+43,Survivor 43,Gaia,12,13,8,3,0,18,0,0,26,6,3,5,13,2,0,0,0,0,Mike Gabler
