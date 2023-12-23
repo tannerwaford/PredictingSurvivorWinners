@@ -1,4 +1,4 @@
-# PredictingSurvivorWinners
+# Stats With Survivor!
 <img src="images/survivor_promo.jpg" alt="promo of Survivor" width="200" height="200">
 
 Reality television has been a prominent genre in modern day entertainment ever since it's conception in the late 20th century. However, it wasn't until the early 2000s where reality television truly soared to new heights through the introduction of social and strategic competitions. Shows such as _Big Brother_, _The Amazing Race_, and, of course, _Survivor_, completely changed the realm of reality television. These shows all involved casts of real people navigating unpredictable and unique social environments. _Survivor_ was one of the most noticeable television shows of this time. The first season transformed the landscapes of social strategic television competitions as audiences eagerly tuned in every week to see who would be voted out.
