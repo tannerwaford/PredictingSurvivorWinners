@@ -11,6 +11,25 @@ My passion for data science actually started with shows like _Survivor_. As a ki
 
 ## Immunity Challenge (Data Storytelling)
 
+Using matplotlib on Python, we can show some correlations in the dataset. For example, how might a player's age impact their chances of winning the game? Below is a histogram showing the distribution of _Survivor_'s player's ages. Compare this to the distribution of the ages of _Survivor_ winners.
+
+<img src="data_visualizations/survivor_contestants_by_age.png" alt="Contestants by age" width="500" height="400">
+
+<img src="data_visualizations/survivor_winners_by_age.png" alt="Winners by age" width="500" height="400">
+
+They are mostly similar, except we can see that the range of winners is smaller than the one including all contestants. No players under the age of 20 or over the age of 58 have won the game yet. A majority of winners are either in their mid 20's or mid 30's. These are the best age groups to bet on if you are trying to predict who the winner of the season will be. This is because older players typically get voted out earlier and younger players aren't respected as much due to their lack of life experience.
+
+Now, let's look at the impact that race could have on a player's game. Below is a graph showing the distribution of winners by their race. Compare this to the distribution of all _Survivor_ players by their race.
+
+<img src="data_visualizations/survivor_winners_by_race.png" alt="Winners by race" width="500" height="400">
+
+<img src="data_visualizations/survivor_contestants_by_race_before_bipoc.png" alt="Survivor players by race before bipoc rule" width="500" height="400">
+
+<img src="data_visualizations/survivor_contestants_by_race_after_bipoc.png" alt="Survivor players by race after bipoc rule" width="500" height="400">
+
+As we can see, the distribution of _Survivor_ winners is almost identical to the distribution of _Survivor_ players before the BIPOC rule was initiated at CBS. This rule was a response to the Black Lives Matter movement of 2020 where casts of non-scripted television shows on CBS network now had to comprise of at least 50% people of color. Before this rule, the cast was heavily favored towards non people of color where white people made up on average about 70% of the cast. This is why they ended up also making up a majority of the winners. However, after this rule was introduced, 4/5 past winners have been people of color. As it turns out, having a more diverse cast of players lead to having a more diverse group of winners (who would've thought!). I predict that eventually the pie graph for winners ethnicity will look pretty similar to the _Survivor_ players after the BIPOC rule. 
+
+These graphs could indicate that a _Survivor_ player's race might not have a major impact on their chances of winning as the sample's distribution is very similar to the population's distribution.
 
 
 ## Tribal Council (Predicting Player's Placement)
