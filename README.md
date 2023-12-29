@@ -16,3 +16,5 @@ My passion for data science actually started with shows like _Survivor_. As a ki
 ## Tribal Council (Predicting Player's Placement)
 
 With the information specified above, how could we possibly use this information to create a model that might be able to predict a player's placement? Would it even be possible to create a model that could predict a _Survivor_'s placement with almost 100% certainty? 
+
+## Finale (Conclusion)
